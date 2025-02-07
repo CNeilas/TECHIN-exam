@@ -18,7 +18,7 @@ To get Exam up and running locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Stalkakuma/exam.git
+   git clone https://github.com/CNeilas/TECHIN-exam.git
    ```
 2. Navigate to the frontend directory:
    ```bash
@@ -55,23 +55,8 @@ The backend server will run at http://localhost:8080.
 ## **Usage**
 
 1. Open the frontend in your browser: [http://localhost:5173](http://localhost:5173).
-2. Documentation can be found on http://localhost:8080/swagger-ui/index.html
 
    Users =
 
    1. acc. name: admin; password: admin
    2. acc. name: user; password: user
-
-## **Technologies**
-
-### **Frontend**
-
-- [React-Vite](https://vitejs.dev/)
-- [React Bootstrap](https://react-bootstrap.github.io/)
-- [Axios](https://axios-http.com/)
-
-### **Backend**
-
-- [Java Spring Boot](https://spring.io/projects/spring-boot)
-- [H2 Database](https://www.h2database.com/)
-- REST API architecture
