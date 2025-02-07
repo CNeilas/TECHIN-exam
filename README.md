@@ -6,7 +6,6 @@
    - [Frontend Setup](#frontend-setup)
    - [Backend Setup](#backend-setup)
 2. [Usage](#usage)
-3. [Technologies](#technologies)
 
 ---
 
@@ -56,7 +55,6 @@ The backend server will run at http://localhost:8080.
 
 1. Open the frontend in your browser: [http://localhost:5173](http://localhost:5173).
 
-   Users =
-
+   Users
    1. acc. name: admin; password: admin
    2. acc. name: user; password: user
