@@ -1,7 +1,3 @@
-# **My Exam**
-
-No clue what it will be yet!.
-
 ---
 
 ## **Table of Contents**
